@@ -1,0 +1,136 @@
+body {
+    background-color: #FFEFBD;
+}
+
+
+img {
+    width: 15%;
+}
+
+h1 {
+    margin-top: 5px;
+    text-align: center;
+    color: red;
+    font-family: arial;
+    font-size: 25px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+}
+
+label {
+    text-align: center;
+    color: red;
+    font-family: arial;
+    font-size: 15px;
+}
+
+
+#submit{
+    background-color: blue;
+    width: 100px; 
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 13px;
+    color: white; 
+}
+
+.imagetop {
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.hamburgers{
+    margin-top: 0px;
+    width: 612px;
+    text-align: center;
+    float: left;
+    position: relative;
+}
+
+.burgers{
+    margin-top: 5px;
+    margin-left: 60px;
+    padding-left: 3px;
+    align-self: center;
+    width: 45%;
+    height: 20px;
+    border: solid thick darkblue;
+    border-width:1px;
+    color: blue;
+    font-family: arial;
+    text-align: left;
+    background: white;
+    float: left;
+}
+
+.devourit_button{
+    margin-top: 5px;
+    margin-left: 18px;
+    height: 18px;
+    float: left;
+    position: relative;
+}
+
+.devoured {
+    margin-top: 0px;
+    width: 590px;
+    text-align: center;
+    float: right;
+}
+
+.burgers_devoured {
+    margin-top: 5px;
+    margin-left: 60px;
+    padding-left: 3px;
+    align-self: center;
+    width: 70%;
+    height: 20px;
+    border: solid thick gray;
+    border-width:1px;
+    color: gray;
+    font-family: arial;
+    text-align: left;
+    background: #DDDDDD;
+    float: left;
+    position: relative;
+}
+
+.formsubmit {
+    margin-top: 25px;
+    text-align: center;  
+    position: relative;
+}
+
+#cleared{
+    clear: both;
+}
+
+.create-update-form{
+    text-align: center;
+    position: relative;
+}
+
+.form-group {
+    text-align: center;
+    position: relative;
+}
+
+#addtext{
+    font-size: 13pt;
+    font-family: arial;
+    height: 42px;
+    width : 450px;
+}
+
+#addCustomer{
+    margin-left: 0px;
+    font-size: 13pt;
+    font-family: arial;
+    height: 18px;
+    width : 150px;
+    position: relative;
+}
